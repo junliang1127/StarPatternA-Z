@@ -1,5 +1,5 @@
 package patternCode;
-// Try
+
 import java.util.Scanner;
 class Alpha
 {
